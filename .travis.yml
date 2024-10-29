@@ -1,6 +1,5 @@
 language: c
 version: ~> 1.0
-sudo: true
 
 cache:
   apt: true
