@@ -1,0 +1,6 @@
+/mariadb/libmariadb.dll
+/usr/local/plugin/mysql_clear_password.dll
+/usr/local/plugin/dialog.dll
+/usr/local/plugin/client_ed25519.dll
+/usr/local/plugin/sha256_password.dll
+/usr/local/plugin/caching_sha2_password.dll

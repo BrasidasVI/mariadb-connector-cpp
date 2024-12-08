@@ -1,0 +1,20 @@
+^C:\USERS\GRANT\DOCUMENTS\ARK-SERVER\MBP\MARIADB-CONNECTOR-CPP\BUILD\CMAKEFILES\83AC7E69E40D9EA8189001DE9C29AD1B\CPP_WIX.RULE
+setlocal
+\bin\candle.exe -ext WixUIExtension -ext WixUtilExtension mariadb_conncpp.xml -o mariadb_conncpp.wixobj
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\GRANT\DOCUMENTS\ARK-SERVER\MBP\MARIADB-CONNECTOR-CPP\WININSTALL\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/grant/Documents/Ark-Server/MBP/mariadb-connector-cpp -BC:/Users/grant/Documents/Ark-Server/MBP/mariadb-connector-cpp/build --check-stamp-file C:/Users/grant/Documents/Ark-Server/MBP/mariadb-connector-cpp/build/wininstall/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

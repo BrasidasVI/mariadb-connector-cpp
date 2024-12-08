@@ -1,0 +1,10 @@
+^C:\USERS\GRANT\DOCUMENTS\ARK-SERVER\MBP\MARIADB-CONNECTOR-CPP\BUILD\CMAKEFILES\5D485B3F700E94D61AFFB2CAE38E1A6D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/grant/Documents/Ark-Server/MBP/mariadb-connector-cpp -BC:/Users/grant/Documents/Ark-Server/MBP/mariadb-connector-cpp/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/grant/Documents/Ark-Server/MBP/mariadb-connector-cpp/build/mariadb_connector_cpp.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

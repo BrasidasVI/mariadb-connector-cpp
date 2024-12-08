@@ -1,0 +1,6 @@
+<Include>
+  <?define binaries_dir="C:/Users/grant/Documents/Ark-Server/MBP/mariadb-connector-cpp/build/Release" ?>
+  <?define plugins_source_dir="C:/Users/grant/Documents/Ark-Server/MBP/mariadb-connector-cpp/build/libmariadb/Release" ?>
+  <?define plugins_subdir_name="plugin" ?>
+  <?define installer_tools_dir="" ?>
+</Include>
