@@ -1,0 +1,92 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"ADD_CUSTOM_TARGET",
+			"ADD_DEPENDENCIES"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 437,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 469,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 469,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 469,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 469,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 469,
+				"parent" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "dialog::@e15ef724672515c9086e"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "mysql_clear_password::@e15ef724672515c9086e"
+		},
+		{
+			"backtrace" : 4,
+			"id" : "client_ed25519::@e15ef724672515c9086e"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "caching_sha2_password::@e15ef724672515c9086e"
+		},
+		{
+			"backtrace" : 6,
+			"id" : "sha256_password::@e15ef724672515c9086e"
+		},
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "DEPENDENCIES_FOR_PACKAGE::@6890427a1f51a3e7e1df",
+	"name" : "DEPENDENCIES_FOR_PACKAGE",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

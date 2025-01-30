@@ -1,0 +1,6 @@
+/mariadb/libmariadb.dll
+C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp/install/plugin/mysql_clear_password.dll
+C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp/install/plugin/dialog.dll
+C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp/install/plugin/client_ed25519.dll
+C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp/install/plugin/sha256_password.dll
+C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp/install/plugin/caching_sha2_password.dll

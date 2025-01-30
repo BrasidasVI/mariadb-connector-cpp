@@ -1,0 +1,66 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"libmariadb/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "dialog::@e15ef724672515c9086e"
+		},
+		{
+			"id" : "auth_gssapi_client::@e15ef724672515c9086e"
+		},
+		{
+			"id" : "pvio_shmem::@e15ef724672515c9086e"
+		},
+		{
+			"id" : "mysql_clear_password::@e15ef724672515c9086e"
+		},
+		{
+			"id" : "zlib::@4dc35437432e789bd30c"
+		},
+		{
+			"id" : "client_ed25519::@e15ef724672515c9086e"
+		},
+		{
+			"id" : "caching_sha2_password::@e15ef724672515c9086e"
+		},
+		{
+			"id" : "sha256_password::@e15ef724672515c9086e"
+		},
+		{
+			"id" : "libmariadb::@9b3e725b18e8408670a4"
+		},
+		{
+			"id" : "mariadbclient::@9b3e725b18e8408670a4"
+		},
+		{
+			"id" : "mariadb_obj::@9b3e725b18e8408670a4"
+		},
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "ALL_BUILD::@e15ef724672515c9086e",
+	"isGeneratorProvided" : true,
+	"name" : "ALL_BUILD",
+	"paths" : 
+	{
+		"build" : "libmariadb",
+		"source" : "libmariadb"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

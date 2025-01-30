@@ -1,0 +1,86 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL"
+		],
+		"files" : 
+		[
+			"libmariadb/include/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 33,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 37,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Development",
+			"destination" : "include/mariadb",
+			"paths" : 
+			[
+				"libmariadb/include/mariadb_com.h",
+				"libmariadb/include/mysql.h",
+				"libmariadb/include/mariadb_stmt.h",
+				"libmariadb/include/ma_pvio.h",
+				"libmariadb/include/ma_tls.h",
+				"build/libmariadb/include/mariadb_version.h",
+				"libmariadb/include/ma_list.h",
+				"libmariadb/include/errmsg.h",
+				"libmariadb/include/mariadb_dyncol.h",
+				"libmariadb/include/mariadb_ctype.h",
+				"libmariadb/include/mariadb_rpl.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Development",
+			"destination" : "include/mariadb/mysql",
+			"paths" : 
+			[
+				"libmariadb/include/mysql/client_plugin.h",
+				"libmariadb/include/mysql/plugin_auth.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Development",
+			"destination" : "include/mariadb/mariadb",
+			"paths" : 
+			[
+				"libmariadb/include/mariadb/ma_io.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "libmariadb/include",
+		"source" : "libmariadb/include"
+	}
+}

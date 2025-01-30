@@ -1,0 +1,98 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL"
+		],
+		"files" : 
+		[
+			"libmariadb/libmariadb/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 503,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 507,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Development",
+			"destination" : "/mariadb",
+			"paths" : 
+			[
+				"libmariadb/libmariadb/MinSizeRel/mariadbclient.lib"
+			],
+			"targetId" : "mariadbclient::@9b3e725b18e8408670a4",
+			"targetIndex" : 17,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Development",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "mariadbclient::@9b3e725b18e8408670a4",
+				"index" : 17
+			},
+			"destination" : "/mariadb",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "SharedLibraries",
+			"destination" : "/mariadb",
+			"paths" : 
+			[
+				"libmariadb/libmariadb/MinSizeRel/libmariadb.lib"
+			],
+			"targetId" : "libmariadb::@9b3e725b18e8408670a4",
+			"targetIndex" : 14,
+			"targetIsImportLibrary" : true,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "SharedLibraries",
+			"destination" : "/mariadb",
+			"paths" : 
+			[
+				"libmariadb/libmariadb/MinSizeRel/libmariadb.dll"
+			],
+			"targetId" : "libmariadb::@9b3e725b18e8408670a4",
+			"targetIndex" : 14,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "SharedLibraries",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "libmariadb::@9b3e725b18e8408670a4",
+				"index" : 14
+			},
+			"destination" : "/mariadb",
+			"type" : "cxxModuleBmi"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "libmariadb/libmariadb",
+		"source" : "libmariadb/libmariadb"
+	}
+}

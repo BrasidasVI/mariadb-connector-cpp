@@ -1,0 +1,93 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "mariadbcpp_obj::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "mariadbcpp-static::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "mariadbcpp::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "CJUnitTestsPort::@ccefc3ecd9cf1113ba26"
+		},
+		{
+			"id" : "static_test::@36f028580bb02cc8272a"
+		},
+		{
+			"id" : "test_framework::@417052b5f0b7011ad665"
+		},
+		{
+			"id" : "driver_test::@36f028580bb02cc8272a"
+		},
+		{
+			"id" : "classes_test_obj::@eef10db73b2f22524f92"
+		},
+		{
+			"id" : "mariadb-connector-cpp-1.0.5-win32.msi::@e5fcb2b8ab786c67797d"
+		},
+		{
+			"id" : "perf_statement::@2107253a78f53c552829"
+		},
+		{
+			"id" : "test_connection::@6323b75f549cca5b41d0"
+		},
+		{
+			"id" : "test_resultsetmetadata::@6323b75f549cca5b41d0"
+		},
+		{
+			"id" : "test_preparedstatement::@6323b75f549cca5b41d0"
+		},
+		{
+			"id" : "test_resultset::@6323b75f549cca5b41d0"
+		},
+		{
+			"id" : "test_parametermetadata::@6323b75f549cca5b41d0"
+		},
+		{
+			"id" : "test_savepoint::@6323b75f549cca5b41d0"
+		},
+		{
+			"id" : "unsorted_bugs::@2a91207e6a5a83d5274a"
+		},
+		{
+			"id" : "test_databasemetadata::@6323b75f549cca5b41d0"
+		},
+		{
+			"id" : "test_statement::@6323b75f549cca5b41d0"
+		},
+		{
+			"id" : "example::@2d54fce1df60f899c742"
+		},
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+	"isGeneratorProvided" : true,
+	"name" : "ALL_BUILD",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

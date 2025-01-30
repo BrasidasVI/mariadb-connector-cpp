@@ -1,0 +1,464 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL",
+			"INSTALL_PLUGIN",
+			"REGISTER_PLUGIN",
+			"INCLUDE"
+		],
+		"files" : 
+		[
+			"libmariadb/cmake/install_plugins.cmake",
+			"libmariadb/cmake/plugins.cmake",
+			"libmariadb/plugins/auth/CMakeLists.txt",
+			"libmariadb/plugins/CMakeLists.txt",
+			"libmariadb/CMakeLists.txt",
+			"libmariadb/plugins/pvio/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 4,
+				"line" : 428,
+				"parent" : 0
+			},
+			{
+				"file" : 3,
+				"parent" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 7,
+				"parent" : 2
+			},
+			{
+				"file" : 2,
+				"parent" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 31,
+				"parent" : 4
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 84,
+				"parent" : 5
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 11,
+				"parent" : 6
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 55,
+				"parent" : 4
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 84,
+				"parent" : 9
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 11,
+				"parent" : 10
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 10
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 77,
+				"parent" : 4
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 84,
+				"parent" : 13
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 11,
+				"parent" : 14
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 14
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 88,
+				"parent" : 4
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 84,
+				"parent" : 17
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 11,
+				"parent" : 18
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 18
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 114,
+				"parent" : 4
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 84,
+				"parent" : 21
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 11,
+				"parent" : 22
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 22
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 137,
+				"parent" : 4
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 84,
+				"parent" : 25
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 11,
+				"parent" : 26
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 26
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 7,
+				"parent" : 2
+			},
+			{
+				"file" : 5,
+				"parent" : 29
+			},
+			{
+				"command" : 2,
+				"file" : 5,
+				"line" : 22,
+				"parent" : 30
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 84,
+				"parent" : 31
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 11,
+				"parent" : 32
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 32
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 7,
+			"component" : "ClientPlugins",
+			"destination" : "plugin",
+			"paths" : 
+			[
+				"libmariadb/Debug/dialog.dll"
+			],
+			"targetId" : "dialog::@e15ef724672515c9086e",
+			"targetIndex" : 11,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "ClientPlugins",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "dialog::@e15ef724672515c9086e",
+				"index" : 11
+			},
+			"destination" : "plugin",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Debuginfo",
+			"destination" : "symbols",
+			"paths" : 
+			[
+				"build/libmariadb/Debug/dialog.pdb"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "ClientPlugins",
+			"destination" : "plugin",
+			"paths" : 
+			[
+				"libmariadb/Debug/client_ed25519.dll"
+			],
+			"targetId" : "client_ed25519::@e15ef724672515c9086e",
+			"targetIndex" : 10,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "ClientPlugins",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "client_ed25519::@e15ef724672515c9086e",
+				"index" : 10
+			},
+			"destination" : "plugin",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 12,
+			"component" : "Debuginfo",
+			"destination" : "symbols",
+			"paths" : 
+			[
+				"build/libmariadb/Debug/client_ed25519.pdb"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 15,
+			"component" : "ClientPlugins",
+			"destination" : "plugin",
+			"paths" : 
+			[
+				"libmariadb/Debug/caching_sha2_password.dll"
+			],
+			"targetId" : "caching_sha2_password::@e15ef724672515c9086e",
+			"targetIndex" : 8,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 15,
+			"component" : "ClientPlugins",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "caching_sha2_password::@e15ef724672515c9086e",
+				"index" : 8
+			},
+			"destination" : "plugin",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 16,
+			"component" : "Debuginfo",
+			"destination" : "symbols",
+			"paths" : 
+			[
+				"build/libmariadb/Debug/caching_sha2_password.pdb"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 19,
+			"component" : "ClientPlugins",
+			"destination" : "plugin",
+			"paths" : 
+			[
+				"libmariadb/Debug/sha256_password.dll"
+			],
+			"targetId" : "sha256_password::@e15ef724672515c9086e",
+			"targetIndex" : 24,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 19,
+			"component" : "ClientPlugins",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "sha256_password::@e15ef724672515c9086e",
+				"index" : 24
+			},
+			"destination" : "plugin",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 20,
+			"component" : "Debuginfo",
+			"destination" : "symbols",
+			"paths" : 
+			[
+				"build/libmariadb/Debug/sha256_password.pdb"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 23,
+			"component" : "ClientPlugins",
+			"destination" : "plugin",
+			"paths" : 
+			[
+				"libmariadb/Debug/auth_gssapi_client.dll"
+			],
+			"targetId" : "auth_gssapi_client::@e15ef724672515c9086e",
+			"targetIndex" : 7,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 23,
+			"component" : "ClientPlugins",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "auth_gssapi_client::@e15ef724672515c9086e",
+				"index" : 7
+			},
+			"destination" : "plugin",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 24,
+			"component" : "Debuginfo",
+			"destination" : "symbols",
+			"paths" : 
+			[
+				"build/libmariadb/Debug/auth_gssapi_client.pdb"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 27,
+			"component" : "ClientPlugins",
+			"destination" : "plugin",
+			"paths" : 
+			[
+				"libmariadb/Debug/mysql_clear_password.dll"
+			],
+			"targetId" : "mysql_clear_password::@e15ef724672515c9086e",
+			"targetIndex" : 21,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 27,
+			"component" : "ClientPlugins",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "mysql_clear_password::@e15ef724672515c9086e",
+				"index" : 21
+			},
+			"destination" : "plugin",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 28,
+			"component" : "Debuginfo",
+			"destination" : "symbols",
+			"paths" : 
+			[
+				"build/libmariadb/Debug/mysql_clear_password.pdb"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 33,
+			"component" : "ClientPlugins",
+			"destination" : "plugin",
+			"paths" : 
+			[
+				"libmariadb/Debug/pvio_shmem.dll"
+			],
+			"targetId" : "pvio_shmem::@e15ef724672515c9086e",
+			"targetIndex" : 23,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 33,
+			"component" : "ClientPlugins",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "pvio_shmem::@e15ef724672515c9086e",
+				"index" : 23
+			},
+			"destination" : "plugin",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 34,
+			"component" : "Debuginfo",
+			"destination" : "symbols",
+			"paths" : 
+			[
+				"build/libmariadb/Debug/pvio_shmem.pdb"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "libmariadb",
+		"source" : "libmariadb"
+	}
+}

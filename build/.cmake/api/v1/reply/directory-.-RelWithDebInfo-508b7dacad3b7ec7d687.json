@@ -1,0 +1,123 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 453,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 470,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 470,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 470,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 470,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 470,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "ConCLib",
+			"destination" : "/mariadb",
+			"paths" : 
+			[
+				"build/libmariadb/libmariadb/RelWithDebInfo/libmariadb.dll"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "ConCPlugins",
+			"destination" : "plugin",
+			"paths" : 
+			[
+				"build/libmariadb/RelWithDebInfo/mysql_clear_password.dll"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "ConCPlugins",
+			"destination" : "plugin",
+			"paths" : 
+			[
+				"build/libmariadb/RelWithDebInfo/dialog.dll"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "ConCPlugins",
+			"destination" : "plugin",
+			"paths" : 
+			[
+				"build/libmariadb/RelWithDebInfo/client_ed25519.dll"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "ConCPlugins",
+			"destination" : "plugin",
+			"paths" : 
+			[
+				"build/libmariadb/RelWithDebInfo/sha256_password.dll"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "ConCPlugins",
+			"destination" : "plugin",
+			"paths" : 
+			[
+				"build/libmariadb/RelWithDebInfo/caching_sha2_password.dll"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	}
+}

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\grant\Documents\Ark-Server\mariadb-connector-cpp\x64\Release\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\grant\Documents\Ark-Server\mariadb-connector-cpp\libmariadb\Release\caching_sha2_password.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\grant\Documents\Ark-Server\mariadb-connector-cpp\libmariadb\Release\client_ed25519.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\grant\Documents\Ark-Server\mariadb-connector-cpp\libmariadb\Release\dialog.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\grant\Documents\Ark-Server\mariadb-connector-cpp\libmariadb\Release\mysql_clear_password.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\grant\Documents\Ark-Server\mariadb-connector-cpp\libmariadb\Release\sha256_password.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\grant\Documents\Ark-Server\mariadb-connector-cpp\x64\Release\DEPENDENCIES_FOR_PACKAGE</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

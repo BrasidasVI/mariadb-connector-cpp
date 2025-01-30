@@ -55,7 +55,7 @@
  */
 
 
-#define SIZEOF_CHARP 8
+#define SIZEOF_CHARP 4
 #if defined(SIZEOF_CHARP)
 # define HAVE_CHARP 1
 #endif
@@ -77,7 +77,7 @@
 #endif
 
 
-#define SIZEOF_SIZE_T 8
+#define SIZEOF_SIZE_T 4
 #if defined(SIZEOF_SIZE_T)
 # define HAVE_SIZE_T 1
 #endif

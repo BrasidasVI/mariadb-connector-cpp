@@ -30,7 +30,7 @@
 #define MARIADB_PACKAGE_VERSION_ID 30311
 #define MARIADB_SYSTEM_TYPE "Windows"
 #define MARIADB_MACHINE_TYPE "AMD64"
-#define MARIADB_PLUGINDIR "/usr/local/plugin"
+#define MARIADB_PLUGINDIR "C:/Program Files (x86)/mariadb_connector_cpp/plugin"
 
 /* mysqld compile time options */
 #ifndef MYSQL_CHARSET

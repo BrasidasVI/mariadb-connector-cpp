@@ -1,0 +1,1017 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/my_auth.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/auth_gssapi_client.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/sspi_client.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/sspi_errmsg.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/old_password.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/c_zlib.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/pvio_socket.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/pvio_npipe.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/ma_array.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/ma_charset.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/ma_decimal.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/ma_hashtbl.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/ma_net.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/mariadb_charset.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/ma_time.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/ma_default.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/ma_errmsg.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/mariadb_lib.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/ma_list.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/ma_pvio.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/ma_tls.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/ma_alloc.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/ma_compress.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/ma_init.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/ma_password.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/ma_ll2str.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/ma_sha1.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/mariadb_stmt.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/ma_loaddata.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/ma_stmt_codec.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/ma_string.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/ma_dtoa.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/mariadb_rpl.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/ma_client_plugin.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/ma_io.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/schannel.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/ma_schannel.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/schannel_certs.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/win_iconv.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/win32_errmsg.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/adler32.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/compress.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/crc32.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/deflate.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/gzclose.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/gzlib.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/gzread.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/gzwrite.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/infback.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/inffast.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/inflate.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/inftrees.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/trees.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/uncompr.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/zutil.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/mariadb_dyncol.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/mariadb_async.obj"
+		},
+		{
+			"path" : "libmariadb/libmariadb/mariadb_obj.dir/Debug/ma_context.obj"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"ADD_LIBRARY",
+			"ADD_DEFINITIONS",
+			"INCLUDE_DIRECTORIES",
+			"INCLUDE"
+		],
+		"files" : 
+		[
+			"libmariadb/libmariadb/CMakeLists.txt",
+			"libmariadb/CMakeLists.txt",
+			"libmariadb/plugins/auth/CMakeLists.txt",
+			"libmariadb/plugins/CMakeLists.txt",
+			"libmariadb/plugins/compress/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 419,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 340,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 233,
+				"parent" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 349,
+				"parent" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 382,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 428,
+				"parent" : 3
+			},
+			{
+				"file" : 3,
+				"parent" : 7
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 7,
+				"parent" : 8
+			},
+			{
+				"file" : 2,
+				"parent" : 9
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 3,
+				"parent" : 10
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 4,
+				"parent" : 10
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 7,
+				"parent" : 8
+			},
+			{
+				"file" : 4,
+				"parent" : 13
+			},
+			{
+				"command" : 2,
+				"file" : 4,
+				"line" : 3,
+				"parent" : 14
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 1,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 197,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 341,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 383,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/DWIN32 /D_WINDOWS /W3 /MTd /ZI /Ob0 /Od /RTC1   -D HAVE_COMPRESS -D LIBMARIADB -D THREAD"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"define" : "HAVE_DLOPEN"
+				},
+				{
+					"define" : "HAVE_SCHANNEL"
+				},
+				{
+					"define" : "HAVE_TLS"
+				},
+				{
+					"define" : "HAVE_WINCRYPT"
+				},
+				{
+					"define" : "MARIADB_MACHINE_TYPE=\"AMD64\""
+				},
+				{
+					"define" : "MARIADB_SYSTEM_TYPE=\"Windows\""
+				},
+				{
+					"backtrace" : 2,
+					"define" : "SIZEOF_CHARP=4"
+				},
+				{
+					"define" : "WIN32_LEAN_AND_MEAN"
+				},
+				{
+					"define" : "_CRT_NONSTDC_NO_DEPRECATE"
+				},
+				{
+					"define" : "_CRT_SECURE_NO_WARNINGS"
+				},
+				{
+					"define" : "_SCL_SECURE_NO_WARNINGS"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 4,
+					"path" : "C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp/libmariadb/external/zlib"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp/libmariadb/plugins/pvio"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp/build/libmariadb/include"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp/libmariadb/plugins/auth"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp/libmariadb/include"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp/libmariadb/plugins/compress"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp/libmariadb/libmariadb"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp/build/libmariadb/external/zlib"
+				},
+				{
+					"backtrace" : 18,
+					"path" : "C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp/libmariadb/win-iconv"
+				},
+				{
+					"backtrace" : 19,
+					"path" : "C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp/external/zlib"
+				}
+			],
+			"language" : "C",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "99"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				56,
+				57,
+				58
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/DWIN32 /D_WINDOWS /W3 /MTd /ZI /Ob0 /Od /RTC1   -D HAVE_COMPRESS -D LIBMARIADB -D THREAD"
+				},
+				{
+					"fragment" : "-W0"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"define" : "HAVE_DLOPEN"
+				},
+				{
+					"define" : "HAVE_SCHANNEL"
+				},
+				{
+					"define" : "HAVE_TLS"
+				},
+				{
+					"define" : "HAVE_WINCRYPT"
+				},
+				{
+					"define" : "MARIADB_MACHINE_TYPE=\"AMD64\""
+				},
+				{
+					"define" : "MARIADB_SYSTEM_TYPE=\"Windows\""
+				},
+				{
+					"backtrace" : 2,
+					"define" : "SIZEOF_CHARP=4"
+				},
+				{
+					"define" : "WIN32_LEAN_AND_MEAN"
+				},
+				{
+					"define" : "_CRT_NONSTDC_NO_DEPRECATE"
+				},
+				{
+					"define" : "_CRT_SECURE_NO_WARNINGS"
+				},
+				{
+					"define" : "_SCL_SECURE_NO_WARNINGS"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 4,
+					"path" : "C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp/libmariadb/external/zlib"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp/libmariadb/plugins/pvio"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp/build/libmariadb/include"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp/libmariadb/plugins/auth"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp/libmariadb/include"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp/libmariadb/plugins/compress"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp/libmariadb/libmariadb"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp/build/libmariadb/external/zlib"
+				},
+				{
+					"backtrace" : 18,
+					"path" : "C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp/libmariadb/win-iconv"
+				},
+				{
+					"backtrace" : 19,
+					"path" : "C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp/external/zlib"
+				}
+			],
+			"language" : "C",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "99"
+			},
+			"sourceIndexes" : 
+			[
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "mariadb_obj::@9b3e725b18e8408670a4",
+	"name" : "mariadb_obj",
+	"paths" : 
+	{
+		"build" : "libmariadb/libmariadb",
+		"source" : "libmariadb/libmariadb"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				40
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/plugins/auth/my_auth.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/plugins/auth/auth_gssapi_client.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/plugins/auth/sspi_client.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/plugins/auth/sspi_errmsg.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/plugins/auth/old_password.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/plugins/compress/c_zlib.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/plugins/pvio/pvio_socket.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/plugins/pvio/pvio_npipe.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/libmariadb/ma_array.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/libmariadb/ma_charset.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/libmariadb/ma_decimal.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/libmariadb/ma_hashtbl.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/libmariadb/ma_net.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/libmariadb/mariadb_charset.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/libmariadb/ma_time.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/libmariadb/ma_default.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/libmariadb/ma_errmsg.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/libmariadb/mariadb_lib.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/libmariadb/ma_list.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/libmariadb/ma_pvio.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/libmariadb/ma_tls.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/libmariadb/ma_alloc.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/libmariadb/ma_compress.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/libmariadb/ma_init.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/libmariadb/ma_password.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/libmariadb/ma_ll2str.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/libmariadb/ma_sha1.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/libmariadb/mariadb_stmt.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/libmariadb/ma_loaddata.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/libmariadb/ma_stmt_codec.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/libmariadb/ma_string.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/libmariadb/ma_dtoa.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/libmariadb/mariadb_rpl.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build/libmariadb/libmariadb/ma_client_plugin.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/libmariadb/ma_io.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/libmariadb/secure/schannel.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/libmariadb/secure/ma_schannel.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/libmariadb/secure/schannel_certs.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/win-iconv/win_iconv.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/libmariadb/win32_errmsg.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "libmariadb/libmariadb/win32_errmsg.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "libmariadb/external/zlib/adler32.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "libmariadb/external/zlib/compress.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "libmariadb/external/zlib/crc32.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "libmariadb/external/zlib/deflate.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "libmariadb/external/zlib/gzclose.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "libmariadb/external/zlib/gzlib.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "libmariadb/external/zlib/gzread.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "libmariadb/external/zlib/gzwrite.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "libmariadb/external/zlib/infback.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "libmariadb/external/zlib/inffast.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "libmariadb/external/zlib/inflate.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "libmariadb/external/zlib/inftrees.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "libmariadb/external/zlib/trees.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "libmariadb/external/zlib/uncompr.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "libmariadb/external/zlib/zutil.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/libmariadb/mariadb_dyncol.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/libmariadb/mariadb_async.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libmariadb/libmariadb/ma_context.c",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "OBJECT_LIBRARY"
+}

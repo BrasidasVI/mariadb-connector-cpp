@@ -1,0 +1,2484 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						5,
+						6
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-aee3990bc2a6f23476ed.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						5,
+						6,
+						18,
+						19,
+						20
+					]
+				},
+				{
+					"build" : "libmariadb",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-libmariadb-Debug-b87c19f7e6c23632c07d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "libmariadb",
+					"targetIndexes" : 
+					[
+						1,
+						7,
+						8,
+						10,
+						11,
+						21,
+						23,
+						24
+					]
+				},
+				{
+					"build" : "libmariadb/external/zlib",
+					"jsonFile" : "directory-libmariadb.external.zlib-Debug-2c778303b9a3e7f56453.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.4.4"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "libmariadb/external/zlib",
+					"targetIndexes" : 
+					[
+						2,
+						36
+					]
+				},
+				{
+					"build" : "libmariadb/include",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-libmariadb.include-Debug-a08c4d669c47c7363539.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "libmariadb/include"
+				},
+				{
+					"build" : "libmariadb/libmariadb",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-libmariadb.libmariadb-Debug-02f46db4ff2bb9781738.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "libmariadb/libmariadb",
+					"targetIndexes" : 
+					[
+						14,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "wininstall",
+					"jsonFile" : "directory-wininstall-Debug-c94db5fd5aef24af6923.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "wininstall",
+					"targetIndexes" : 
+					[
+						4,
+						15
+					]
+				},
+				{
+					"build" : "test",
+					"childIndexes" : 
+					[
+						7,
+						8,
+						9
+					],
+					"jsonFile" : "directory-test-Debug-f18be1977b403cfd1a50.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "test",
+					"targetIndexes" : 
+					[
+						12,
+						25
+					]
+				},
+				{
+					"build" : "test/framework",
+					"jsonFile" : "directory-test.framework-Debug-70d02bd8173a439cec76.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 0,
+					"source" : "test/framework",
+					"targetIndexes" : 
+					[
+						28
+					]
+				},
+				{
+					"build" : "test/CJUnitTestsPort",
+					"jsonFile" : "directory-test.CJUnitTestsPort-Debug-2fc9bd52042238d71721.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 0,
+					"source" : "test/CJUnitTestsPort",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "test/unit",
+					"childIndexes" : 
+					[
+						10,
+						11,
+						12,
+						13
+					],
+					"jsonFile" : "directory-test.unit-Debug-de1f2f912139f0ae3537.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 0,
+					"source" : "test/unit",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "test/unit/example",
+					"jsonFile" : "directory-test.unit.example-Debug-670cfcad8b52411d80f9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 9,
+					"projectIndex" : 0,
+					"source" : "test/unit/example",
+					"targetIndexes" : 
+					[
+						13
+					]
+				},
+				{
+					"build" : "test/unit/classes",
+					"jsonFile" : "directory-test.unit.classes-Debug-40397be3b79147978bb8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 9,
+					"projectIndex" : 0,
+					"source" : "test/unit/classes",
+					"targetIndexes" : 
+					[
+						26,
+						27,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34
+					]
+				},
+				{
+					"build" : "test/unit/performance",
+					"jsonFile" : "directory-test.unit.performance-Debug-dba44031f973934b8d4e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 9,
+					"projectIndex" : 0,
+					"source" : "test/unit/performance",
+					"targetIndexes" : 
+					[
+						22
+					]
+				},
+				{
+					"build" : "test/unit/bugs",
+					"jsonFile" : "directory-test.unit.bugs-Debug-90d705c91e4080dc5c99.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 9,
+					"projectIndex" : 0,
+					"source" : "test/unit/bugs",
+					"targetIndexes" : 
+					[
+						35
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					],
+					"name" : "mariadb_connector_cpp",
+					"targetIndexes" : 
+					[
+						0,
+						3,
+						4,
+						5,
+						6,
+						9,
+						12,
+						13,
+						15,
+						18,
+						19,
+						20,
+						22,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						2
+					],
+					"directoryIndexes" : 
+					[
+						1,
+						3,
+						4
+					],
+					"name" : "mariadb-connector-c",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						7,
+						8,
+						10,
+						11,
+						14,
+						16,
+						17,
+						21,
+						23,
+						24
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "zlib",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						2,
+						36
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Debug-a4663f26c00bdecc12d7.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ALL_BUILD::@e15ef724672515c9086e",
+					"jsonFile" : "target-ALL_BUILD-Debug-66a113c8f9b91cd73b10.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "ALL_BUILD::@4dc35437432e789bd30c",
+					"jsonFile" : "target-ALL_BUILD-Debug-c8ec4ef58655d598612d.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "CJUnitTestsPort::@ccefc3ecd9cf1113ba26",
+					"jsonFile" : "target-CJUnitTestsPort-Debug-b2ad8c57eac252cbf9a1.json",
+					"name" : "CJUnitTestsPort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "CPP_WIX::@e5fcb2b8ab786c67797d",
+					"jsonFile" : "target-CPP_WIX-Debug-4c292842263f84aac135.json",
+					"name" : "CPP_WIX",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DEPENDENCIES_FOR_PACKAGE::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DEPENDENCIES_FOR_PACKAGE-Debug-9b1b9f9f7a112838e690.json",
+					"name" : "DEPENDENCIES_FOR_PACKAGE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Debug-6823472052e6d585a1b0.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "auth_gssapi_client::@e15ef724672515c9086e",
+					"jsonFile" : "target-auth_gssapi_client-Debug-24ec4af05f599b5b2160.json",
+					"name" : "auth_gssapi_client",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "caching_sha2_password::@e15ef724672515c9086e",
+					"jsonFile" : "target-caching_sha2_password-Debug-a27421465f5d1cd88c07.json",
+					"name" : "caching_sha2_password",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "classes_test_obj::@eef10db73b2f22524f92",
+					"jsonFile" : "target-classes_test_obj-Debug-c66b927494b1d6d29985.json",
+					"name" : "classes_test_obj",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "client_ed25519::@e15ef724672515c9086e",
+					"jsonFile" : "target-client_ed25519-Debug-87b77bf7cc3ce81d476c.json",
+					"name" : "client_ed25519",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "dialog::@e15ef724672515c9086e",
+					"jsonFile" : "target-dialog-Debug-823032aaef37c03887d6.json",
+					"name" : "dialog",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "driver_test::@36f028580bb02cc8272a",
+					"jsonFile" : "target-driver_test-Debug-8620fdc3be417352bebc.json",
+					"name" : "driver_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "example::@2d54fce1df60f899c742",
+					"jsonFile" : "target-example-Debug-73258aece0bd8db05c2d.json",
+					"name" : "example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "libmariadb::@9b3e725b18e8408670a4",
+					"jsonFile" : "target-libmariadb-Debug-3bee1a13e021994dd412.json",
+					"name" : "libmariadb",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "mariadb-connector-cpp-1.0.5-win32.msi::@e5fcb2b8ab786c67797d",
+					"jsonFile" : "target-mariadb-connector-cpp-1.0.5-win32.msi-Debug-bbc7cb9d9ad781023821.json",
+					"name" : "mariadb-connector-cpp-1.0.5-win32.msi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "mariadb_obj::@9b3e725b18e8408670a4",
+					"jsonFile" : "target-mariadb_obj-Debug-1d7350bee8edae4e42cf.json",
+					"name" : "mariadb_obj",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "mariadbclient::@9b3e725b18e8408670a4",
+					"jsonFile" : "target-mariadbclient-Debug-3379a087690e972f6de1.json",
+					"name" : "mariadbclient",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mariadbcpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mariadbcpp-Debug-3404f4d3ef821b71b442.json",
+					"name" : "mariadbcpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mariadbcpp-static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mariadbcpp-static-Debug-a86b4f4b761b82e8aafa.json",
+					"name" : "mariadbcpp-static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mariadbcpp_obj::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mariadbcpp_obj-Debug-506b7e862e5fe5c1b2af.json",
+					"name" : "mariadbcpp_obj",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "mysql_clear_password::@e15ef724672515c9086e",
+					"jsonFile" : "target-mysql_clear_password-Debug-d232df9b307f5918fed5.json",
+					"name" : "mysql_clear_password",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "perf_statement::@2107253a78f53c552829",
+					"jsonFile" : "target-perf_statement-Debug-492636e312d5e0e0bf9a.json",
+					"name" : "perf_statement",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "pvio_shmem::@e15ef724672515c9086e",
+					"jsonFile" : "target-pvio_shmem-Debug-b3df5f0adfbe8162bfe7.json",
+					"name" : "pvio_shmem",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "sha256_password::@e15ef724672515c9086e",
+					"jsonFile" : "target-sha256_password-Debug-30ca276e4159b66bc2be.json",
+					"name" : "sha256_password",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "static_test::@36f028580bb02cc8272a",
+					"jsonFile" : "target-static_test-Debug-13427420cf447b7a15a6.json",
+					"name" : "static_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "test_connection::@6323b75f549cca5b41d0",
+					"jsonFile" : "target-test_connection-Debug-d0654d290dee6e090afb.json",
+					"name" : "test_connection",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "test_databasemetadata::@6323b75f549cca5b41d0",
+					"jsonFile" : "target-test_databasemetadata-Debug-2b3408c31c3d693d779a.json",
+					"name" : "test_databasemetadata",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "test_framework::@417052b5f0b7011ad665",
+					"jsonFile" : "target-test_framework-Debug-955f6bb08fffc9ce62bf.json",
+					"name" : "test_framework",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "test_parametermetadata::@6323b75f549cca5b41d0",
+					"jsonFile" : "target-test_parametermetadata-Debug-2d2d02edbc4ad7640cbe.json",
+					"name" : "test_parametermetadata",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "test_preparedstatement::@6323b75f549cca5b41d0",
+					"jsonFile" : "target-test_preparedstatement-Debug-e639169513c1629ed864.json",
+					"name" : "test_preparedstatement",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "test_resultset::@6323b75f549cca5b41d0",
+					"jsonFile" : "target-test_resultset-Debug-4a9e54d3c1752989aadb.json",
+					"name" : "test_resultset",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "test_resultsetmetadata::@6323b75f549cca5b41d0",
+					"jsonFile" : "target-test_resultsetmetadata-Debug-eb61d476b246227ee8d9.json",
+					"name" : "test_resultsetmetadata",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "test_savepoint::@6323b75f549cca5b41d0",
+					"jsonFile" : "target-test_savepoint-Debug-09e211a571e3f4fb92c0.json",
+					"name" : "test_savepoint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "test_statement::@6323b75f549cca5b41d0",
+					"jsonFile" : "target-test_statement-Debug-79366d5a0edac011a64e.json",
+					"name" : "test_statement",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "unsorted_bugs::@2a91207e6a5a83d5274a",
+					"jsonFile" : "target-unsorted_bugs-Debug-cedc7da4d6fe32b444de.json",
+					"name" : "unsorted_bugs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "zlib::@4dc35437432e789bd30c",
+					"jsonFile" : "target-zlib-Debug-a49a642f2392f5cb47e2.json",
+					"name" : "zlib",
+					"projectIndex" : 2
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						5,
+						6
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-71b40284c8cbf3c1e89f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						5,
+						6,
+						18,
+						19,
+						20
+					]
+				},
+				{
+					"build" : "libmariadb",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-libmariadb-Release-80f04b607459f5d7d2c2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "libmariadb",
+					"targetIndexes" : 
+					[
+						1,
+						7,
+						8,
+						10,
+						11,
+						21,
+						23,
+						24
+					]
+				},
+				{
+					"build" : "libmariadb/external/zlib",
+					"jsonFile" : "directory-libmariadb.external.zlib-Release-2c778303b9a3e7f56453.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.4.4"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "libmariadb/external/zlib",
+					"targetIndexes" : 
+					[
+						2,
+						36
+					]
+				},
+				{
+					"build" : "libmariadb/include",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-libmariadb.include-Release-a08c4d669c47c7363539.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "libmariadb/include"
+				},
+				{
+					"build" : "libmariadb/libmariadb",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-libmariadb.libmariadb-Release-e8edfd7884392ff974af.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "libmariadb/libmariadb",
+					"targetIndexes" : 
+					[
+						14,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "wininstall",
+					"jsonFile" : "directory-wininstall-Release-c94db5fd5aef24af6923.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "wininstall",
+					"targetIndexes" : 
+					[
+						4,
+						15
+					]
+				},
+				{
+					"build" : "test",
+					"childIndexes" : 
+					[
+						7,
+						8,
+						9
+					],
+					"jsonFile" : "directory-test-Release-f18be1977b403cfd1a50.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "test",
+					"targetIndexes" : 
+					[
+						12,
+						25
+					]
+				},
+				{
+					"build" : "test/framework",
+					"jsonFile" : "directory-test.framework-Release-70d02bd8173a439cec76.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 0,
+					"source" : "test/framework",
+					"targetIndexes" : 
+					[
+						28
+					]
+				},
+				{
+					"build" : "test/CJUnitTestsPort",
+					"jsonFile" : "directory-test.CJUnitTestsPort-Release-2fc9bd52042238d71721.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 0,
+					"source" : "test/CJUnitTestsPort",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "test/unit",
+					"childIndexes" : 
+					[
+						10,
+						11,
+						12,
+						13
+					],
+					"jsonFile" : "directory-test.unit-Release-de1f2f912139f0ae3537.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 0,
+					"source" : "test/unit",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "test/unit/example",
+					"jsonFile" : "directory-test.unit.example-Release-670cfcad8b52411d80f9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 9,
+					"projectIndex" : 0,
+					"source" : "test/unit/example",
+					"targetIndexes" : 
+					[
+						13
+					]
+				},
+				{
+					"build" : "test/unit/classes",
+					"jsonFile" : "directory-test.unit.classes-Release-40397be3b79147978bb8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 9,
+					"projectIndex" : 0,
+					"source" : "test/unit/classes",
+					"targetIndexes" : 
+					[
+						26,
+						27,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34
+					]
+				},
+				{
+					"build" : "test/unit/performance",
+					"jsonFile" : "directory-test.unit.performance-Release-dba44031f973934b8d4e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 9,
+					"projectIndex" : 0,
+					"source" : "test/unit/performance",
+					"targetIndexes" : 
+					[
+						22
+					]
+				},
+				{
+					"build" : "test/unit/bugs",
+					"jsonFile" : "directory-test.unit.bugs-Release-90d705c91e4080dc5c99.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 9,
+					"projectIndex" : 0,
+					"source" : "test/unit/bugs",
+					"targetIndexes" : 
+					[
+						35
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					],
+					"name" : "mariadb_connector_cpp",
+					"targetIndexes" : 
+					[
+						0,
+						3,
+						4,
+						5,
+						6,
+						9,
+						12,
+						13,
+						15,
+						18,
+						19,
+						20,
+						22,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						2
+					],
+					"directoryIndexes" : 
+					[
+						1,
+						3,
+						4
+					],
+					"name" : "mariadb-connector-c",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						7,
+						8,
+						10,
+						11,
+						14,
+						16,
+						17,
+						21,
+						23,
+						24
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "zlib",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						2,
+						36
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Release-a4663f26c00bdecc12d7.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ALL_BUILD::@e15ef724672515c9086e",
+					"jsonFile" : "target-ALL_BUILD-Release-66a113c8f9b91cd73b10.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "ALL_BUILD::@4dc35437432e789bd30c",
+					"jsonFile" : "target-ALL_BUILD-Release-c8ec4ef58655d598612d.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "CJUnitTestsPort::@ccefc3ecd9cf1113ba26",
+					"jsonFile" : "target-CJUnitTestsPort-Release-9ce260d0cfc14da47308.json",
+					"name" : "CJUnitTestsPort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "CPP_WIX::@e5fcb2b8ab786c67797d",
+					"jsonFile" : "target-CPP_WIX-Release-4c292842263f84aac135.json",
+					"name" : "CPP_WIX",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DEPENDENCIES_FOR_PACKAGE::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DEPENDENCIES_FOR_PACKAGE-Release-9b1b9f9f7a112838e690.json",
+					"name" : "DEPENDENCIES_FOR_PACKAGE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Release-6823472052e6d585a1b0.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "auth_gssapi_client::@e15ef724672515c9086e",
+					"jsonFile" : "target-auth_gssapi_client-Release-1538eed292e977ff86c4.json",
+					"name" : "auth_gssapi_client",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "caching_sha2_password::@e15ef724672515c9086e",
+					"jsonFile" : "target-caching_sha2_password-Release-b34536b63cf4912dc756.json",
+					"name" : "caching_sha2_password",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "classes_test_obj::@eef10db73b2f22524f92",
+					"jsonFile" : "target-classes_test_obj-Release-f13d5f775a62ec798d3a.json",
+					"name" : "classes_test_obj",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "client_ed25519::@e15ef724672515c9086e",
+					"jsonFile" : "target-client_ed25519-Release-6316722a85b9095a5f20.json",
+					"name" : "client_ed25519",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "dialog::@e15ef724672515c9086e",
+					"jsonFile" : "target-dialog-Release-a07309dbec0303c2fcaf.json",
+					"name" : "dialog",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "driver_test::@36f028580bb02cc8272a",
+					"jsonFile" : "target-driver_test-Release-498f5497889fb6da33a9.json",
+					"name" : "driver_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "example::@2d54fce1df60f899c742",
+					"jsonFile" : "target-example-Release-91c6c71be9ba7dc6d195.json",
+					"name" : "example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "libmariadb::@9b3e725b18e8408670a4",
+					"jsonFile" : "target-libmariadb-Release-b976532f0e62efb7b20a.json",
+					"name" : "libmariadb",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "mariadb-connector-cpp-1.0.5-win32.msi::@e5fcb2b8ab786c67797d",
+					"jsonFile" : "target-mariadb-connector-cpp-1.0.5-win32.msi-Release-bbc7cb9d9ad781023821.json",
+					"name" : "mariadb-connector-cpp-1.0.5-win32.msi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "mariadb_obj::@9b3e725b18e8408670a4",
+					"jsonFile" : "target-mariadb_obj-Release-2bd07a440f082b1faea4.json",
+					"name" : "mariadb_obj",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "mariadbclient::@9b3e725b18e8408670a4",
+					"jsonFile" : "target-mariadbclient-Release-0c9aa718ed462ca8c442.json",
+					"name" : "mariadbclient",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mariadbcpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mariadbcpp-Release-b42ac31d03a15d79ba03.json",
+					"name" : "mariadbcpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mariadbcpp-static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mariadbcpp-static-Release-159a9a873b0dad68634a.json",
+					"name" : "mariadbcpp-static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mariadbcpp_obj::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mariadbcpp_obj-Release-5be29eb0e7787fc3c63d.json",
+					"name" : "mariadbcpp_obj",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "mysql_clear_password::@e15ef724672515c9086e",
+					"jsonFile" : "target-mysql_clear_password-Release-6f94a701bf7128243d10.json",
+					"name" : "mysql_clear_password",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "perf_statement::@2107253a78f53c552829",
+					"jsonFile" : "target-perf_statement-Release-6609eca7e14f7bffecd0.json",
+					"name" : "perf_statement",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "pvio_shmem::@e15ef724672515c9086e",
+					"jsonFile" : "target-pvio_shmem-Release-6f19219a8b187eafcdbc.json",
+					"name" : "pvio_shmem",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "sha256_password::@e15ef724672515c9086e",
+					"jsonFile" : "target-sha256_password-Release-4117591b4c726a5e48fb.json",
+					"name" : "sha256_password",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "static_test::@36f028580bb02cc8272a",
+					"jsonFile" : "target-static_test-Release-4ad95093e04992decf9e.json",
+					"name" : "static_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "test_connection::@6323b75f549cca5b41d0",
+					"jsonFile" : "target-test_connection-Release-3b16bfb406f2e38c0008.json",
+					"name" : "test_connection",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "test_databasemetadata::@6323b75f549cca5b41d0",
+					"jsonFile" : "target-test_databasemetadata-Release-f1a8829ac0ad856846ce.json",
+					"name" : "test_databasemetadata",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "test_framework::@417052b5f0b7011ad665",
+					"jsonFile" : "target-test_framework-Release-fd5d9cfb13b6ebf25a37.json",
+					"name" : "test_framework",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "test_parametermetadata::@6323b75f549cca5b41d0",
+					"jsonFile" : "target-test_parametermetadata-Release-e82a3ae40c09e55c2174.json",
+					"name" : "test_parametermetadata",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "test_preparedstatement::@6323b75f549cca5b41d0",
+					"jsonFile" : "target-test_preparedstatement-Release-5e5e47cc621f6ac2bf10.json",
+					"name" : "test_preparedstatement",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "test_resultset::@6323b75f549cca5b41d0",
+					"jsonFile" : "target-test_resultset-Release-c3fef5189c69cd3544bb.json",
+					"name" : "test_resultset",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "test_resultsetmetadata::@6323b75f549cca5b41d0",
+					"jsonFile" : "target-test_resultsetmetadata-Release-81d2592c23e19ff08963.json",
+					"name" : "test_resultsetmetadata",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "test_savepoint::@6323b75f549cca5b41d0",
+					"jsonFile" : "target-test_savepoint-Release-3ed9cabf0ad6e60e0316.json",
+					"name" : "test_savepoint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "test_statement::@6323b75f549cca5b41d0",
+					"jsonFile" : "target-test_statement-Release-940700ff88377b9a1400.json",
+					"name" : "test_statement",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "unsorted_bugs::@2a91207e6a5a83d5274a",
+					"jsonFile" : "target-unsorted_bugs-Release-1e8800fcbf7f515d5369.json",
+					"name" : "unsorted_bugs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "zlib::@4dc35437432e789bd30c",
+					"jsonFile" : "target-zlib-Release-a83b8f71f61acba77bb8.json",
+					"name" : "zlib",
+					"projectIndex" : 2
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						5,
+						6
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-MinSizeRel-7996f20cb54f26564468.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						5,
+						6,
+						18,
+						19,
+						20
+					]
+				},
+				{
+					"build" : "libmariadb",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-libmariadb-MinSizeRel-1f1c06ec810e53f08e8a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "libmariadb",
+					"targetIndexes" : 
+					[
+						1,
+						7,
+						8,
+						10,
+						11,
+						21,
+						23,
+						24
+					]
+				},
+				{
+					"build" : "libmariadb/external/zlib",
+					"jsonFile" : "directory-libmariadb.external.zlib-MinSizeRel-2c778303b9a3e7f56453.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.4.4"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "libmariadb/external/zlib",
+					"targetIndexes" : 
+					[
+						2,
+						36
+					]
+				},
+				{
+					"build" : "libmariadb/include",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-libmariadb.include-MinSizeRel-a08c4d669c47c7363539.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "libmariadb/include"
+				},
+				{
+					"build" : "libmariadb/libmariadb",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-libmariadb.libmariadb-MinSizeRel-ce4e5208b5b96ed1d3ee.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "libmariadb/libmariadb",
+					"targetIndexes" : 
+					[
+						14,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "wininstall",
+					"jsonFile" : "directory-wininstall-MinSizeRel-c94db5fd5aef24af6923.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "wininstall",
+					"targetIndexes" : 
+					[
+						4,
+						15
+					]
+				},
+				{
+					"build" : "test",
+					"childIndexes" : 
+					[
+						7,
+						8,
+						9
+					],
+					"jsonFile" : "directory-test-MinSizeRel-f18be1977b403cfd1a50.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "test",
+					"targetIndexes" : 
+					[
+						12,
+						25
+					]
+				},
+				{
+					"build" : "test/framework",
+					"jsonFile" : "directory-test.framework-MinSizeRel-70d02bd8173a439cec76.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 0,
+					"source" : "test/framework",
+					"targetIndexes" : 
+					[
+						28
+					]
+				},
+				{
+					"build" : "test/CJUnitTestsPort",
+					"jsonFile" : "directory-test.CJUnitTestsPort-MinSizeRel-2fc9bd52042238d71721.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 0,
+					"source" : "test/CJUnitTestsPort",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "test/unit",
+					"childIndexes" : 
+					[
+						10,
+						11,
+						12,
+						13
+					],
+					"jsonFile" : "directory-test.unit-MinSizeRel-de1f2f912139f0ae3537.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 0,
+					"source" : "test/unit",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "test/unit/example",
+					"jsonFile" : "directory-test.unit.example-MinSizeRel-670cfcad8b52411d80f9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 9,
+					"projectIndex" : 0,
+					"source" : "test/unit/example",
+					"targetIndexes" : 
+					[
+						13
+					]
+				},
+				{
+					"build" : "test/unit/classes",
+					"jsonFile" : "directory-test.unit.classes-MinSizeRel-40397be3b79147978bb8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 9,
+					"projectIndex" : 0,
+					"source" : "test/unit/classes",
+					"targetIndexes" : 
+					[
+						26,
+						27,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34
+					]
+				},
+				{
+					"build" : "test/unit/performance",
+					"jsonFile" : "directory-test.unit.performance-MinSizeRel-dba44031f973934b8d4e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 9,
+					"projectIndex" : 0,
+					"source" : "test/unit/performance",
+					"targetIndexes" : 
+					[
+						22
+					]
+				},
+				{
+					"build" : "test/unit/bugs",
+					"jsonFile" : "directory-test.unit.bugs-MinSizeRel-90d705c91e4080dc5c99.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 9,
+					"projectIndex" : 0,
+					"source" : "test/unit/bugs",
+					"targetIndexes" : 
+					[
+						35
+					]
+				}
+			],
+			"name" : "MinSizeRel",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					],
+					"name" : "mariadb_connector_cpp",
+					"targetIndexes" : 
+					[
+						0,
+						3,
+						4,
+						5,
+						6,
+						9,
+						12,
+						13,
+						15,
+						18,
+						19,
+						20,
+						22,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						2
+					],
+					"directoryIndexes" : 
+					[
+						1,
+						3,
+						4
+					],
+					"name" : "mariadb-connector-c",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						7,
+						8,
+						10,
+						11,
+						14,
+						16,
+						17,
+						21,
+						23,
+						24
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "zlib",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						2,
+						36
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-a4663f26c00bdecc12d7.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ALL_BUILD::@e15ef724672515c9086e",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-66a113c8f9b91cd73b10.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "ALL_BUILD::@4dc35437432e789bd30c",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-c8ec4ef58655d598612d.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "CJUnitTestsPort::@ccefc3ecd9cf1113ba26",
+					"jsonFile" : "target-CJUnitTestsPort-MinSizeRel-0949d1908ac53eb34234.json",
+					"name" : "CJUnitTestsPort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "CPP_WIX::@e5fcb2b8ab786c67797d",
+					"jsonFile" : "target-CPP_WIX-MinSizeRel-4c292842263f84aac135.json",
+					"name" : "CPP_WIX",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DEPENDENCIES_FOR_PACKAGE::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DEPENDENCIES_FOR_PACKAGE-MinSizeRel-9b1b9f9f7a112838e690.json",
+					"name" : "DEPENDENCIES_FOR_PACKAGE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-MinSizeRel-6823472052e6d585a1b0.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "auth_gssapi_client::@e15ef724672515c9086e",
+					"jsonFile" : "target-auth_gssapi_client-MinSizeRel-0a2a4b16642a59128b1b.json",
+					"name" : "auth_gssapi_client",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "caching_sha2_password::@e15ef724672515c9086e",
+					"jsonFile" : "target-caching_sha2_password-MinSizeRel-3b95f3c1e03115ef47ab.json",
+					"name" : "caching_sha2_password",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "classes_test_obj::@eef10db73b2f22524f92",
+					"jsonFile" : "target-classes_test_obj-MinSizeRel-a8ee3870080b8c62c31a.json",
+					"name" : "classes_test_obj",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "client_ed25519::@e15ef724672515c9086e",
+					"jsonFile" : "target-client_ed25519-MinSizeRel-08822a44a70cbf2767ae.json",
+					"name" : "client_ed25519",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "dialog::@e15ef724672515c9086e",
+					"jsonFile" : "target-dialog-MinSizeRel-8adbb5a8604683f705eb.json",
+					"name" : "dialog",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "driver_test::@36f028580bb02cc8272a",
+					"jsonFile" : "target-driver_test-MinSizeRel-305078cc07ef62bf03ca.json",
+					"name" : "driver_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "example::@2d54fce1df60f899c742",
+					"jsonFile" : "target-example-MinSizeRel-723f1dfb66a5038636f6.json",
+					"name" : "example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "libmariadb::@9b3e725b18e8408670a4",
+					"jsonFile" : "target-libmariadb-MinSizeRel-2382dddf8774affe9324.json",
+					"name" : "libmariadb",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "mariadb-connector-cpp-1.0.5-win32.msi::@e5fcb2b8ab786c67797d",
+					"jsonFile" : "target-mariadb-connector-cpp-1.0.5-win32.msi-MinSizeRel-bbc7cb9d9ad781023821.json",
+					"name" : "mariadb-connector-cpp-1.0.5-win32.msi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "mariadb_obj::@9b3e725b18e8408670a4",
+					"jsonFile" : "target-mariadb_obj-MinSizeRel-af6c59b5cb36d3dbcab5.json",
+					"name" : "mariadb_obj",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "mariadbclient::@9b3e725b18e8408670a4",
+					"jsonFile" : "target-mariadbclient-MinSizeRel-f940f47528c77013653d.json",
+					"name" : "mariadbclient",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mariadbcpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mariadbcpp-MinSizeRel-e060ec7eefaa92db3a9b.json",
+					"name" : "mariadbcpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mariadbcpp-static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mariadbcpp-static-MinSizeRel-cd19b98ab6d72d2c35dd.json",
+					"name" : "mariadbcpp-static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mariadbcpp_obj::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mariadbcpp_obj-MinSizeRel-7d7de91d8c1d6e1c3500.json",
+					"name" : "mariadbcpp_obj",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "mysql_clear_password::@e15ef724672515c9086e",
+					"jsonFile" : "target-mysql_clear_password-MinSizeRel-5961a44bd157b152c2ed.json",
+					"name" : "mysql_clear_password",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "perf_statement::@2107253a78f53c552829",
+					"jsonFile" : "target-perf_statement-MinSizeRel-3647a584181558736677.json",
+					"name" : "perf_statement",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "pvio_shmem::@e15ef724672515c9086e",
+					"jsonFile" : "target-pvio_shmem-MinSizeRel-ee87c98c3faf743857f2.json",
+					"name" : "pvio_shmem",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "sha256_password::@e15ef724672515c9086e",
+					"jsonFile" : "target-sha256_password-MinSizeRel-d0a642fc8c9e8e767dc7.json",
+					"name" : "sha256_password",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "static_test::@36f028580bb02cc8272a",
+					"jsonFile" : "target-static_test-MinSizeRel-126c7efb790eb0ae60d8.json",
+					"name" : "static_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "test_connection::@6323b75f549cca5b41d0",
+					"jsonFile" : "target-test_connection-MinSizeRel-7fdf02431a7852d4ba8e.json",
+					"name" : "test_connection",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "test_databasemetadata::@6323b75f549cca5b41d0",
+					"jsonFile" : "target-test_databasemetadata-MinSizeRel-fce504b6b8e226f68a79.json",
+					"name" : "test_databasemetadata",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "test_framework::@417052b5f0b7011ad665",
+					"jsonFile" : "target-test_framework-MinSizeRel-09a528e5ced3bd649721.json",
+					"name" : "test_framework",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "test_parametermetadata::@6323b75f549cca5b41d0",
+					"jsonFile" : "target-test_parametermetadata-MinSizeRel-2cacaeb85a0dae4392b2.json",
+					"name" : "test_parametermetadata",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "test_preparedstatement::@6323b75f549cca5b41d0",
+					"jsonFile" : "target-test_preparedstatement-MinSizeRel-25f3f40429b9ef0de53f.json",
+					"name" : "test_preparedstatement",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "test_resultset::@6323b75f549cca5b41d0",
+					"jsonFile" : "target-test_resultset-MinSizeRel-9744766916f2f3a16d0e.json",
+					"name" : "test_resultset",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "test_resultsetmetadata::@6323b75f549cca5b41d0",
+					"jsonFile" : "target-test_resultsetmetadata-MinSizeRel-37959f7e9c78f4fc7db7.json",
+					"name" : "test_resultsetmetadata",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "test_savepoint::@6323b75f549cca5b41d0",
+					"jsonFile" : "target-test_savepoint-MinSizeRel-99cf2907121cbffbd3a0.json",
+					"name" : "test_savepoint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "test_statement::@6323b75f549cca5b41d0",
+					"jsonFile" : "target-test_statement-MinSizeRel-ef99f87fb93cd75cec38.json",
+					"name" : "test_statement",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "unsorted_bugs::@2a91207e6a5a83d5274a",
+					"jsonFile" : "target-unsorted_bugs-MinSizeRel-842aae7e831e320a9830.json",
+					"name" : "unsorted_bugs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "zlib::@4dc35437432e789bd30c",
+					"jsonFile" : "target-zlib-MinSizeRel-b8cb35d701fe81661e86.json",
+					"name" : "zlib",
+					"projectIndex" : 2
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						5,
+						6
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-RelWithDebInfo-508b7dacad3b7ec7d687.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						5,
+						6,
+						18,
+						19,
+						20
+					]
+				},
+				{
+					"build" : "libmariadb",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-libmariadb-RelWithDebInfo-4ce14fbf9a6e70205995.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "libmariadb",
+					"targetIndexes" : 
+					[
+						1,
+						7,
+						8,
+						10,
+						11,
+						21,
+						23,
+						24
+					]
+				},
+				{
+					"build" : "libmariadb/external/zlib",
+					"jsonFile" : "directory-libmariadb.external.zlib-RelWithDebInfo-2c778303b9a3e7f56453.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.4.4"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "libmariadb/external/zlib",
+					"targetIndexes" : 
+					[
+						2,
+						36
+					]
+				},
+				{
+					"build" : "libmariadb/include",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-libmariadb.include-RelWithDebInfo-a08c4d669c47c7363539.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "libmariadb/include"
+				},
+				{
+					"build" : "libmariadb/libmariadb",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-libmariadb.libmariadb-RelWithDebInfo-79b7e8eaacba5a7cfc49.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "libmariadb/libmariadb",
+					"targetIndexes" : 
+					[
+						14,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "wininstall",
+					"jsonFile" : "directory-wininstall-RelWithDebInfo-c94db5fd5aef24af6923.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "wininstall",
+					"targetIndexes" : 
+					[
+						4,
+						15
+					]
+				},
+				{
+					"build" : "test",
+					"childIndexes" : 
+					[
+						7,
+						8,
+						9
+					],
+					"jsonFile" : "directory-test-RelWithDebInfo-f18be1977b403cfd1a50.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "test",
+					"targetIndexes" : 
+					[
+						12,
+						25
+					]
+				},
+				{
+					"build" : "test/framework",
+					"jsonFile" : "directory-test.framework-RelWithDebInfo-70d02bd8173a439cec76.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 0,
+					"source" : "test/framework",
+					"targetIndexes" : 
+					[
+						28
+					]
+				},
+				{
+					"build" : "test/CJUnitTestsPort",
+					"jsonFile" : "directory-test.CJUnitTestsPort-RelWithDebInfo-2fc9bd52042238d71721.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 0,
+					"source" : "test/CJUnitTestsPort",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "test/unit",
+					"childIndexes" : 
+					[
+						10,
+						11,
+						12,
+						13
+					],
+					"jsonFile" : "directory-test.unit-RelWithDebInfo-de1f2f912139f0ae3537.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 0,
+					"source" : "test/unit",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "test/unit/example",
+					"jsonFile" : "directory-test.unit.example-RelWithDebInfo-670cfcad8b52411d80f9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 9,
+					"projectIndex" : 0,
+					"source" : "test/unit/example",
+					"targetIndexes" : 
+					[
+						13
+					]
+				},
+				{
+					"build" : "test/unit/classes",
+					"jsonFile" : "directory-test.unit.classes-RelWithDebInfo-40397be3b79147978bb8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 9,
+					"projectIndex" : 0,
+					"source" : "test/unit/classes",
+					"targetIndexes" : 
+					[
+						26,
+						27,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34
+					]
+				},
+				{
+					"build" : "test/unit/performance",
+					"jsonFile" : "directory-test.unit.performance-RelWithDebInfo-dba44031f973934b8d4e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 9,
+					"projectIndex" : 0,
+					"source" : "test/unit/performance",
+					"targetIndexes" : 
+					[
+						22
+					]
+				},
+				{
+					"build" : "test/unit/bugs",
+					"jsonFile" : "directory-test.unit.bugs-RelWithDebInfo-90d705c91e4080dc5c99.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 9,
+					"projectIndex" : 0,
+					"source" : "test/unit/bugs",
+					"targetIndexes" : 
+					[
+						35
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					],
+					"name" : "mariadb_connector_cpp",
+					"targetIndexes" : 
+					[
+						0,
+						3,
+						4,
+						5,
+						6,
+						9,
+						12,
+						13,
+						15,
+						18,
+						19,
+						20,
+						22,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						2
+					],
+					"directoryIndexes" : 
+					[
+						1,
+						3,
+						4
+					],
+					"name" : "mariadb-connector-c",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						7,
+						8,
+						10,
+						11,
+						14,
+						16,
+						17,
+						21,
+						23,
+						24
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "zlib",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						2,
+						36
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-a4663f26c00bdecc12d7.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ALL_BUILD::@e15ef724672515c9086e",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-66a113c8f9b91cd73b10.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "ALL_BUILD::@4dc35437432e789bd30c",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-c8ec4ef58655d598612d.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "CJUnitTestsPort::@ccefc3ecd9cf1113ba26",
+					"jsonFile" : "target-CJUnitTestsPort-RelWithDebInfo-8e87344727a2eb806326.json",
+					"name" : "CJUnitTestsPort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "CPP_WIX::@e5fcb2b8ab786c67797d",
+					"jsonFile" : "target-CPP_WIX-RelWithDebInfo-4c292842263f84aac135.json",
+					"name" : "CPP_WIX",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DEPENDENCIES_FOR_PACKAGE::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DEPENDENCIES_FOR_PACKAGE-RelWithDebInfo-9b1b9f9f7a112838e690.json",
+					"name" : "DEPENDENCIES_FOR_PACKAGE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-RelWithDebInfo-6823472052e6d585a1b0.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "auth_gssapi_client::@e15ef724672515c9086e",
+					"jsonFile" : "target-auth_gssapi_client-RelWithDebInfo-01f631c544c95c58c0e0.json",
+					"name" : "auth_gssapi_client",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "caching_sha2_password::@e15ef724672515c9086e",
+					"jsonFile" : "target-caching_sha2_password-RelWithDebInfo-c1d76f388b3ef6dc3ec9.json",
+					"name" : "caching_sha2_password",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "classes_test_obj::@eef10db73b2f22524f92",
+					"jsonFile" : "target-classes_test_obj-RelWithDebInfo-8b61bdba3131b192d85b.json",
+					"name" : "classes_test_obj",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "client_ed25519::@e15ef724672515c9086e",
+					"jsonFile" : "target-client_ed25519-RelWithDebInfo-e2f7716f0f65835113be.json",
+					"name" : "client_ed25519",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "dialog::@e15ef724672515c9086e",
+					"jsonFile" : "target-dialog-RelWithDebInfo-a3746375a9b98cd007a0.json",
+					"name" : "dialog",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "driver_test::@36f028580bb02cc8272a",
+					"jsonFile" : "target-driver_test-RelWithDebInfo-ab0976c84629173b0959.json",
+					"name" : "driver_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "example::@2d54fce1df60f899c742",
+					"jsonFile" : "target-example-RelWithDebInfo-f57558a82bbd95c38a69.json",
+					"name" : "example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "libmariadb::@9b3e725b18e8408670a4",
+					"jsonFile" : "target-libmariadb-RelWithDebInfo-dd792d6bff1afab9aa78.json",
+					"name" : "libmariadb",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "mariadb-connector-cpp-1.0.5-win32.msi::@e5fcb2b8ab786c67797d",
+					"jsonFile" : "target-mariadb-connector-cpp-1.0.5-win32.msi-RelWithDebInfo-bbc7cb9d9ad781023821.json",
+					"name" : "mariadb-connector-cpp-1.0.5-win32.msi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "mariadb_obj::@9b3e725b18e8408670a4",
+					"jsonFile" : "target-mariadb_obj-RelWithDebInfo-e3236a2e1409344eddb9.json",
+					"name" : "mariadb_obj",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "mariadbclient::@9b3e725b18e8408670a4",
+					"jsonFile" : "target-mariadbclient-RelWithDebInfo-2b0aff20e261a0834ced.json",
+					"name" : "mariadbclient",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mariadbcpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mariadbcpp-RelWithDebInfo-9594c8de994c3ec49f7e.json",
+					"name" : "mariadbcpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mariadbcpp-static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mariadbcpp-static-RelWithDebInfo-1592d1fd762ac6a8a23e.json",
+					"name" : "mariadbcpp-static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mariadbcpp_obj::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mariadbcpp_obj-RelWithDebInfo-cf858e1fd7bda818d0f2.json",
+					"name" : "mariadbcpp_obj",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "mysql_clear_password::@e15ef724672515c9086e",
+					"jsonFile" : "target-mysql_clear_password-RelWithDebInfo-2d3ad890230fefc5870d.json",
+					"name" : "mysql_clear_password",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "perf_statement::@2107253a78f53c552829",
+					"jsonFile" : "target-perf_statement-RelWithDebInfo-a37857ddcc7e8b9cfb8d.json",
+					"name" : "perf_statement",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "pvio_shmem::@e15ef724672515c9086e",
+					"jsonFile" : "target-pvio_shmem-RelWithDebInfo-288e231d100aa20e599a.json",
+					"name" : "pvio_shmem",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "sha256_password::@e15ef724672515c9086e",
+					"jsonFile" : "target-sha256_password-RelWithDebInfo-31b2aab828a3a8247b3d.json",
+					"name" : "sha256_password",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "static_test::@36f028580bb02cc8272a",
+					"jsonFile" : "target-static_test-RelWithDebInfo-05b7c022f4eba7bac610.json",
+					"name" : "static_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "test_connection::@6323b75f549cca5b41d0",
+					"jsonFile" : "target-test_connection-RelWithDebInfo-fd5440fdbec1ecf8577e.json",
+					"name" : "test_connection",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "test_databasemetadata::@6323b75f549cca5b41d0",
+					"jsonFile" : "target-test_databasemetadata-RelWithDebInfo-fe2e508a8dd2d826eeff.json",
+					"name" : "test_databasemetadata",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "test_framework::@417052b5f0b7011ad665",
+					"jsonFile" : "target-test_framework-RelWithDebInfo-b2475e420870d33f8438.json",
+					"name" : "test_framework",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "test_parametermetadata::@6323b75f549cca5b41d0",
+					"jsonFile" : "target-test_parametermetadata-RelWithDebInfo-bc8d08b8a0356b7fe374.json",
+					"name" : "test_parametermetadata",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "test_preparedstatement::@6323b75f549cca5b41d0",
+					"jsonFile" : "target-test_preparedstatement-RelWithDebInfo-a719c2c3baf234e15570.json",
+					"name" : "test_preparedstatement",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "test_resultset::@6323b75f549cca5b41d0",
+					"jsonFile" : "target-test_resultset-RelWithDebInfo-d787f3a5373d6e2264be.json",
+					"name" : "test_resultset",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "test_resultsetmetadata::@6323b75f549cca5b41d0",
+					"jsonFile" : "target-test_resultsetmetadata-RelWithDebInfo-21f12894123afc80f421.json",
+					"name" : "test_resultsetmetadata",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "test_savepoint::@6323b75f549cca5b41d0",
+					"jsonFile" : "target-test_savepoint-RelWithDebInfo-6ae34a80a364d6962588.json",
+					"name" : "test_savepoint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "test_statement::@6323b75f549cca5b41d0",
+					"jsonFile" : "target-test_statement-RelWithDebInfo-43230cfce55bf5cbf075.json",
+					"name" : "test_statement",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "unsorted_bugs::@2a91207e6a5a83d5274a",
+					"jsonFile" : "target-unsorted_bugs-RelWithDebInfo-452171d44f932a933418.json",
+					"name" : "unsorted_bugs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "zlib::@4dc35437432e789bd30c",
+					"jsonFile" : "target-zlib-RelWithDebInfo-18f5f0c6b56c074c7762.json",
+					"name" : "zlib",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp/build",
+		"source" : "C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

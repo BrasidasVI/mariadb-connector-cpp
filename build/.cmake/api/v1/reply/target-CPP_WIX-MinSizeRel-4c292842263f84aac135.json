@@ -1,0 +1,109 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"ADD_CUSTOM_TARGET",
+			"ADD_DEPENDENCIES"
+		],
+		"files" : 
+		[
+			"wininstall/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 86,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 94,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 92,
+				"parent" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "dialog::@e15ef724672515c9086e"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "mysql_clear_password::@e15ef724672515c9086e"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "mariadbcpp-static::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "caching_sha2_password::@e15ef724672515c9086e"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "sha256_password::@e15ef724672515c9086e"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "mariadbcpp::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "CPP_WIX::@e5fcb2b8ab786c67797d",
+	"name" : "CPP_WIX",
+	"paths" : 
+	{
+		"build" : "wininstall",
+		"source" : "wininstall"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "build/wininstall/CMakeFiles/CPP_WIX",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/838bc1270d2b6e268a2b6a99a56c6422/CPP_WIX.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

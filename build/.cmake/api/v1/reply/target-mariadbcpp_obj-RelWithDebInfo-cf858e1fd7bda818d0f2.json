@@ -1,0 +1,1971 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/MariaDbDriver.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/DriverManager.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/UrlParser.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/MariaDbDatabaseMetaData.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/HostAddress.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/Consts.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/SQLString.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/MariaDbConnection.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/MariaDbStatement.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/MariaDBException.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/MariaDBWarning.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/Identifier.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/MariaDbSavepoint.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/SqlStates.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/Results.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/ColumnType.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/ColumnDefinition.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/MasterProtocol.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/QueryProtocol.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/ConnectProtocol.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/ColumnDefinitionCapi.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/CallableStatementCache.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/CallableStatementCacheKey.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/Value.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/Utils.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/String.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/NoLogger.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/LoggerFactory.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/ProtocolLoggingProxy.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/ParameterHolder.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/Options.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/DefaultOptions.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/GlobalStateInfo.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/Pools.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/FailoverProxy.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/CredentialPluginLoader.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/SelectResultSet.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/SelectResultSetCapi.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/ColumnNameMap.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/StandardPacketInputStream.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/Charset.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/ClientSidePreparedStatement.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/BasePrepareStatement.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/MariaDbFunctionStatement.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/MariaDbProcedureStatement.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/ServerSidePreparedStatement.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/BigDecimalParameter.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/BooleanParameter.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/ByteArrayParameter.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/ByteParameter.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/DateParameter.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/DefaultParameter.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/DoubleParameter.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/FloatParameter.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/IntParameter.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/LongParameter.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/ULongParameter.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/NullParameter.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/ReaderParameter.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/ShortParameter.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/StreamParameter.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/TimeParameter.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/TimestampParameter.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/StringParameter.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/MariaDbPooledConnection.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/MariaDbParameterMetaData.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/MariaDbResultSetMetaData.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/CallParameter.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/CallableParameterMetaData.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/Packet.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/Credential.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/LogQueryTool.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/ClientPrepareResult.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/ServerPrepareResult.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/ServerPrepareStatementCache.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/CmdInformationSingle.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/CmdInformationBatch.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/CmdInformationMultiple.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/RowProtocol.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/BinRowProtocolCapi.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/TextRowProtocolCapi.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/ExceptionFactory.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/StringImp.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/CArray.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/SimpleParameterMetaData.obj"
+		},
+		{
+			"path" : "mariadbcpp_obj.dir/RelWithDebInfo/Dll.obj"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"ADD_LIBRARY",
+			"TARGET_COMPILE_DEFINITIONS",
+			"ADD_DEFINITIONS",
+			"INCLUDE_DIRECTORIES"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 562,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 572,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 403,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 476,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 477,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 497,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 498,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 499,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MT /ZI /O2 /Ob1 /DNDEBUG"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 2,
+					"define" : "MARIADB_EXPORTED=__declspec(dllexport)"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "WIN32_LEAN_AND_MEAN"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "_CRT_SECURE_NO_WARNINGS"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "_SCL_SECURE_NO_WARNINGS"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 4,
+					"path" : "C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp/libmariadb/include"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp/build/libmariadb/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp/include/conncpp"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp/src"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "11"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/DWIN32 /D_WINDOWS /W3 /MT /ZI /O2 /Ob1 /DNDEBUG"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 2,
+					"define" : "MARIADB_EXPORTED=__declspec(dllexport)"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "WIN32_LEAN_AND_MEAN"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "_CRT_SECURE_NO_WARNINGS"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "_SCL_SECURE_NO_WARNINGS"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 4,
+					"path" : "C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp/libmariadb/include"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp/build/libmariadb/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp/include/conncpp"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "C:/Users/grant/Documents/Ark-Server/mariadb-connector-cpp/src"
+				}
+			],
+			"language" : "C",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "99"
+			},
+			"sourceIndexes" : 
+			[
+				85
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "mariadbcpp_obj::@6890427a1f51a3e7e1df",
+	"name" : "mariadbcpp_obj",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				36,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				64,
+				65,
+				66,
+				67,
+				68,
+				81,
+				82,
+				83,
+				84,
+				85
+			]
+		},
+		{
+			"name" : "Protocol",
+			"sourceIndexes" : 
+			[
+				17,
+				103
+			]
+		},
+		{
+			"name" : "C_API",
+			"sourceIndexes" : 
+			[
+				18,
+				19,
+				20,
+				37,
+				79,
+				80,
+				104,
+				105,
+				106,
+				152,
+				199,
+				200
+			]
+		},
+		{
+			"name" : "Caches",
+			"sourceIndexes" : 
+			[
+				21,
+				22,
+				107,
+				108
+			]
+		},
+		{
+			"name" : "Utils",
+			"sourceIndexes" : 
+			[
+				23,
+				24,
+				25,
+				71,
+				72,
+				73,
+				74,
+				109,
+				110,
+				111,
+				112,
+				113,
+				188,
+				190,
+				192,
+				193,
+				194
+			]
+		},
+		{
+			"name" : "Logging",
+			"sourceIndexes" : 
+			[
+				26,
+				27,
+				28,
+				114,
+				115,
+				116,
+				117
+			]
+		},
+		{
+			"name" : "Parameters",
+			"sourceIndexes" : 
+			[
+				29,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				118,
+				163,
+				164,
+				165,
+				166,
+				167,
+				168,
+				169,
+				170,
+				171,
+				172,
+				173,
+				174,
+				175,
+				176,
+				177,
+				178,
+				179,
+				180
+			]
+		},
+		{
+			"name" : "Options",
+			"sourceIndexes" : 
+			[
+				30,
+				31,
+				119,
+				120,
+				121
+			]
+		},
+		{
+			"name" : "Pool",
+			"sourceIndexes" : 
+			[
+				32,
+				33,
+				127,
+				128,
+				129
+			]
+		},
+		{
+			"name" : "Failover",
+			"sourceIndexes" : 
+			[
+				34,
+				130
+			]
+		},
+		{
+			"name" : "Credential",
+			"sourceIndexes" : 
+			[
+				35,
+				70,
+				125,
+				126,
+				189
+			]
+		},
+		{
+			"name" : "Commands",
+			"sourceIndexes" : 
+			[
+				38,
+				69,
+				75,
+				76,
+				77,
+				78,
+				132,
+				153,
+				155,
+				156,
+				187,
+				195,
+				196,
+				197,
+				198
+			]
+		},
+		{
+			"name" : "IO",
+			"sourceIndexes" : 
+			[
+				39,
+				122,
+				123,
+				124
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				86,
+				87,
+				88,
+				89,
+				90,
+				91,
+				92,
+				93,
+				94,
+				95,
+				96,
+				97,
+				98,
+				99,
+				100,
+				101,
+				102,
+				131,
+				151,
+				154,
+				157,
+				158,
+				159,
+				160,
+				161,
+				162,
+				181,
+				182,
+				183,
+				184,
+				185,
+				186,
+				191,
+				201,
+				202,
+				203,
+				204
+			]
+		},
+		{
+			"name" : "PublicAPI",
+			"sourceIndexes" : 
+			[
+				133,
+				134,
+				135,
+				136,
+				137,
+				138,
+				139,
+				140,
+				141,
+				142,
+				143,
+				144,
+				145,
+				146,
+				147,
+				148,
+				149,
+				150
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/MariaDbDriver.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/DriverManager.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/UrlParser.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/MariaDbDatabaseMetaData.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/HostAddress.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Consts.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/SQLString.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/MariaDbConnection.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/MariaDbStatement.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/MariaDBException.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/MariaDBWarning.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Identifier.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/MariaDbSavepoint.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/SqlStates.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Results.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/ColumnType.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/ColumnDefinition.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/protocol/MasterProtocol.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/protocol/capi/QueryProtocol.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/protocol/capi/ConnectProtocol.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/com/capi/ColumnDefinitionCapi.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/cache/CallableStatementCache.cpp",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/cache/CallableStatementCacheKey.cpp",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/util/Value.cpp",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/util/Utils.cpp",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/util/String.cpp",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/logger/NoLogger.cpp",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/logger/LoggerFactory.cpp",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/logger/ProtocolLoggingProxy.cpp",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/parameters/ParameterHolder.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/options/Options.cpp",
+			"sourceGroupIndex" : 7
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/options/DefaultOptions.cpp",
+			"sourceGroupIndex" : 7
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/pool/GlobalStateInfo.cpp",
+			"sourceGroupIndex" : 8
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/pool/Pools.cpp",
+			"sourceGroupIndex" : 8
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/failover/FailoverProxy.cpp",
+			"sourceGroupIndex" : 9
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/credential/CredentialPluginLoader.cpp",
+			"sourceGroupIndex" : 10
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/SelectResultSet.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/com/capi/SelectResultSetCapi.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/com/ColumnNameMap.cpp",
+			"sourceGroupIndex" : 11
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/io/StandardPacketInputStream.cpp",
+			"sourceGroupIndex" : 12
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Charset.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/ClientSidePreparedStatement.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/BasePrepareStatement.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/MariaDbFunctionStatement.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/MariaDbProcedureStatement.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/ServerSidePreparedStatement.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/parameters/BigDecimalParameter.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/parameters/BooleanParameter.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/parameters/ByteArrayParameter.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/parameters/ByteParameter.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/parameters/DateParameter.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/parameters/DefaultParameter.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/parameters/DoubleParameter.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/parameters/FloatParameter.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/parameters/IntParameter.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/parameters/LongParameter.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/parameters/ULongParameter.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/parameters/NullParameter.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/parameters/ReaderParameter.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/parameters/ShortParameter.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/parameters/StreamParameter.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/parameters/TimeParameter.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/parameters/TimestampParameter.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/parameters/StringParameter.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/MariaDbPooledConnection.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/MariaDbParameterMetaData.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/MariaDbResultSetMetaData.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/CallParameter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/CallableParameterMetaData.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/com/Packet.cpp",
+			"sourceGroupIndex" : 11
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/credential/Credential.cpp",
+			"sourceGroupIndex" : 10
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/util/LogQueryTool.cpp",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/util/ClientPrepareResult.cpp",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/util/ServerPrepareResult.cpp",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/util/ServerPrepareStatementCache.cpp",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/com/CmdInformationSingle.cpp",
+			"sourceGroupIndex" : 11
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/com/CmdInformationBatch.cpp",
+			"sourceGroupIndex" : 11
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/com/CmdInformationMultiple.cpp",
+			"sourceGroupIndex" : 11
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/com/RowProtocol.cpp",
+			"sourceGroupIndex" : 11
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/protocol/capi/BinRowProtocolCapi.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/protocol/capi/TextRowProtocolCapi.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/ExceptionFactory.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/StringImp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/CArray.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/SimpleParameterMetaData.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "src/Dll.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/MariaDbConnCpp.h",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/MariaDbDriver.h",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/UrlParser.h",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/MariaDbDatabaseMetaData.h",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/HostAddress.h",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Version.h",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Consts.h",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/MariaDbConnection.h",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/MariaDbStatement.h",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/MariaDBWarning.h",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Protocol.h",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Identifier.h",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/MariaDbSavepoint.h",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/SqlStates.h",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Results.h",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/ColumnDefinition.h",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/MariaDbServerCapabilities.h",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/protocol/MasterProtocol.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/protocol/capi/QueryProtocol.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/protocol/capi/ConnectProtocol.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/com/capi/ColumnDefinitionCapi.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/cache/CallableStatementCache.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/cache/CallableStatementCacheKey.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/util/Value.h",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/util/ClassField.h",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/util/Utils.h",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/util/StateChange.h",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/util/String.h",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/logger/NoLogger.h",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/logger/LoggerFactory.h",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/logger/Logger.h",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/logger/ProtocolLoggingProxy.h",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/parameters/ParameterHolder.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/options/Options.h",
+			"sourceGroupIndex" : 7
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/options/DefaultOptions.h",
+			"sourceGroupIndex" : 7
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/options/DriverPropertyInfo.h",
+			"sourceGroupIndex" : 7
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/io/PacketOutputStream.h",
+			"sourceGroupIndex" : 12
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/io/PacketInputStream.h",
+			"sourceGroupIndex" : 12
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/io/StandardPacketInputStream.h",
+			"sourceGroupIndex" : 12
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/credential/CredentialPlugin.h",
+			"sourceGroupIndex" : 10
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/credential/CredentialPluginLoader.h",
+			"sourceGroupIndex" : 10
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/pool/GlobalStateInfo.h",
+			"sourceGroupIndex" : 8
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/pool/Pools.h",
+			"sourceGroupIndex" : 8
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/pool/Pool.h",
+			"sourceGroupIndex" : 8
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/failover/FailoverProxy.h",
+			"sourceGroupIndex" : 9
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Listener.h",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/com/CmdInformation.h",
+			"sourceGroupIndex" : 11
+		},
+		{
+			"backtrace" : 1,
+			"path" : "include/conncpp.hpp",
+			"sourceGroupIndex" : 14
+		},
+		{
+			"backtrace" : 1,
+			"path" : "include/conncpp/Connection.hpp",
+			"sourceGroupIndex" : 14
+		},
+		{
+			"backtrace" : 1,
+			"path" : "include/conncpp/Statement.hpp",
+			"sourceGroupIndex" : 14
+		},
+		{
+			"backtrace" : 1,
+			"path" : "include/conncpp/ResultSet.hpp",
+			"sourceGroupIndex" : 14
+		},
+		{
+			"backtrace" : 1,
+			"path" : "include/conncpp/PreparedStatement.hpp",
+			"sourceGroupIndex" : 14
+		},
+		{
+			"backtrace" : 1,
+			"path" : "include/conncpp/ParameterMetaData.hpp",
+			"sourceGroupIndex" : 14
+		},
+		{
+			"backtrace" : 1,
+			"path" : "include/conncpp/ResultSetMetaData.hpp",
+			"sourceGroupIndex" : 14
+		},
+		{
+			"backtrace" : 1,
+			"path" : "include/conncpp/DatabaseMetaData.hpp",
+			"sourceGroupIndex" : 14
+		},
+		{
+			"backtrace" : 1,
+			"path" : "include/conncpp/CallableStatement.hpp",
+			"sourceGroupIndex" : 14
+		},
+		{
+			"backtrace" : 1,
+			"path" : "include/conncpp/SQLString.hpp",
+			"sourceGroupIndex" : 14
+		},
+		{
+			"backtrace" : 1,
+			"path" : "include/conncpp/Warning.hpp",
+			"sourceGroupIndex" : 14
+		},
+		{
+			"backtrace" : 1,
+			"path" : "include/conncpp/Exception.hpp",
+			"sourceGroupIndex" : 14
+		},
+		{
+			"backtrace" : 1,
+			"path" : "include/conncpp/jdbccompat.hpp",
+			"sourceGroupIndex" : 14
+		},
+		{
+			"backtrace" : 1,
+			"path" : "include/conncpp/Driver.hpp",
+			"sourceGroupIndex" : 14
+		},
+		{
+			"backtrace" : 1,
+			"path" : "include/conncpp/DriverManager.hpp",
+			"sourceGroupIndex" : 14
+		},
+		{
+			"backtrace" : 1,
+			"path" : "include/conncpp/Types.hpp",
+			"sourceGroupIndex" : 14
+		},
+		{
+			"backtrace" : 1,
+			"path" : "include/conncpp/buildconf.hpp",
+			"sourceGroupIndex" : 14
+		},
+		{
+			"backtrace" : 1,
+			"path" : "include/conncpp/CArray.hpp",
+			"sourceGroupIndex" : 14
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/SelectResultSet.h",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/com/capi/SelectResultSetCapi.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/com/SelectResultSetPacket.h",
+			"sourceGroupIndex" : 11
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/ColumnType.h",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/com/ColumnDefinitionPacket.h",
+			"sourceGroupIndex" : 11
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/com/ColumnNameMap.h",
+			"sourceGroupIndex" : 11
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Charset.h",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/ClientSidePreparedStatement.h",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/BasePrepareStatement.h",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/MariaDbFunctionStatement.h",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/MariaDbProcedureStatement.h",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/ServerSidePreparedStatement.h",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/parameters/BigDecimalParameter.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/parameters/BooleanParameter.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/parameters/ByteArrayParameter.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/parameters/ByteParameter.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/parameters/DateParameter.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/parameters/DefaultParameter.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/parameters/DoubleParameter.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/parameters/FloatParameter.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/parameters/IntParameter.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/parameters/LongParameter.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/parameters/ULongParameter.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/parameters/NullParameter.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/parameters/ReaderParameter.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/parameters/ShortParameter.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/parameters/StreamParameter.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/parameters/TimeParameter.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/parameters/TimestampParameter.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/parameters/StringParameter.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Parameters.h",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/MariaDbPooledConnection.h",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/MariaDbParameterMetaData.h",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/CallParameter.h",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/CallableParameterMetaData.h",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/MariaDbResultSetMetaData.h",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/com/Packet.h",
+			"sourceGroupIndex" : 11
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/util/ServerStatus.h",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/credential/Credential.h",
+			"sourceGroupIndex" : 10
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/util/LogQueryTool.h",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/PrepareResult.h",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/util/ClientPrepareResult.h",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/util/ServerPrepareResult.h",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/util/ServerPrepareStatementCache.h",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/com/CmdInformationSingle.h",
+			"sourceGroupIndex" : 11
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/com/CmdInformationBatch.h",
+			"sourceGroupIndex" : 11
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/com/CmdInformationMultiple.h",
+			"sourceGroupIndex" : 11
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/com/RowProtocol.h",
+			"sourceGroupIndex" : 11
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/protocol/capi/BinRowProtocolCapi.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/protocol/capi/TextRowProtocolCapi.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/ExceptionFactory.h",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/StringImp.h",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/CArrayImp.h",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/SimpleParameterMetaData.h",
+			"sourceGroupIndex" : 13
+		}
+	],
+	"type" : "OBJECT_LIBRARY"
+}
